@@ -6,31 +6,10 @@
     <description>Recent content in Posts on Potisec</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Oct 2019 23:32:15 -0300</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2019 11:26:27 -0300</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Hello World 02</title>
-      <link>/posts/hello-world-02/</link>
-      <pubDate>Tue, 22 Oct 2019 23:32:15 -0300</pubDate>
-      
-      <guid>/posts/hello-world-02/</guid>
-      <description> asdafasdfasdf
-sadfsadfsdafsadfs
-asdfasdfa
-hello </description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>/posts/hello-world/</link>
-      <pubDate>Tue, 22 Oct 2019 23:20:48 -0300</pubDate>
-      
-      <guid>/posts/hello-world/</guid>
-      <description>hello ahasjdasld askdgnsdljglkasjf</description>
-    </item>
     
     <item>
       <title>Hacktoberfest Owasp</title>

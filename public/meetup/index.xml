@@ -6,28 +6,19 @@
     <description>Recent content in Meetups on Potisec</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Oct 2019 23:33:34 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2019 23:26:40 -0300</lastBuildDate>
     
 	<atom:link href="/meetup/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Teste 01</title>
-      <link>/meetup/teste-01/</link>
-      <pubDate>Tue, 22 Oct 2019 23:33:34 -0300</pubDate>
-      
-      <guid>/meetup/teste-01/</guid>
-      <description>asasdfjasdfasdf asdfkasldfjsadklfj
-]asdkfjaskldjfsadlkjfsadf</description>
-    </item>
-    
-    <item>
-      <title>Owasp Potisec 01</title>
+      <title>Dia 24/10/19 - Owasp e Potisec 01</title>
       <link>/meetup/owasp-potisec-01/</link>
       <pubDate>Tue, 22 Oct 2019 23:26:40 -0300</pubDate>
       
       <guid>/meetup/owasp-potisec-01/</guid>
-      <description> teste </description>
+      <description>Nesta atividades vamos prosseguir para a parte 2 do treinamento OWASP Juice Shop.
+Mais informações serão inseridas apos o evento.</description>
     </item>
     
   </channel>
