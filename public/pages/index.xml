@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Potisec</title>
+    <link>/pages/</link>
+    <description>Recent content in Pages on Potisec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Oct 2019 23:33:55 -0300</lastBuildDate>
+    
+	<atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mais Um</title>
+      <link>/pages/mais-um/</link>
+      <pubDate>Tue, 22 Oct 2019 23:33:55 -0300</pubDate>
+      
+      <guid>/pages/mais-um/</guid>
+      <description>asdfasdfdsafklasdjfadsjfs
+sdjfksdajfasd fjksadflsdlkfk</description>
+    </item>
+    
+    <item>
+      <title>Sobre</title>
+      <link>/pages/sobre/</link>
+      <pubDate>Tue, 22 Oct 2019 23:27:05 -0300</pubDate>
+      
+      <guid>/pages/sobre/</guid>
+      <description> somos porque somos </description>
+    </item>
+    
+  </channel>
+</rss>
